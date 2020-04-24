@@ -1,0 +1,10 @@
+.settings/
+bin/
+target/
+.classpath
+.project
+.flattened-pom.xml
+.attach*
+pom.xml.versionsBackup
+
+/.metadata/
